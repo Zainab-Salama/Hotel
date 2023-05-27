@@ -303,6 +303,10 @@ h2{
  }
  .fig div {
     width: 100%;
+    margin-bottom: 30px;
+ }
+ .fig p{
+    padding-top: 0;
  }
  article {
     flex-direction: column;
